@@ -13,7 +13,7 @@ System Reader for Elite Dangerous. It is expected to become an app ecosystem.
   - [@bomany](https://github.com/bomany)
   - [@jfgen](https://github.com/jfgen)
   - [@jsilveiro](https://github.com/jsilveiro)
-  - 
+
 ## Objectives
 
 - provide real-time info to [*Elite Dangerous*](https://www.elitedangerous.com/) users regarding their experiences with the game. The info provided by this family is mostly related to the player's current position in the game world, including:
